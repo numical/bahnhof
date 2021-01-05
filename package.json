@@ -9,7 +9,7 @@
   "author": "Rafael Keramidas",
   "license": "UNLICENSED",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "csv-reader": "^1.0.3",
     "express": "^4.16.4",
     "memory-cache": "^0.2.0",
